@@ -1,0 +1,50 @@
+{
+  "students": [
+    {
+      "_id": "STU01",
+      "StudentName": "John Brown",
+      "StudentGender": "Male",
+      "StudentDOB": "2002-01-15",
+      "StudentEmail": "johnbrown@email.com",
+      "StudentPhoneNumber": "081234567890",
+      "GPA": 3.75
+    },
+    {
+      "_id": "STU02",
+      "StudentName": "Jane Aurelia",
+      "StudentGender": "Female",
+      "StudentDOB": "2003-04-22",
+      "StudentEmail": "janeaurelia@email.com",
+      "StudentPhoneNumber": "089876543210",
+      "GPA": 3.90
+    },
+    {
+      "_id": "STU03",
+      "StudentName": "Emily Soesanto",
+      "StudentGender": "Female",
+      "StudentDOB": "2001-08-30",
+      "StudentEmail": "emilysoesanto@email.com",
+      "StudentPhoneNumber": "08123412345",
+      "GPA": 3.85
+    },
+    {
+      "_id": "STU04",
+      "StudentName": "Michael Wijaya",
+      "StudentGender": "Male",
+      "StudentDOB": "2002-11-09",
+      "StudentEmail": "michaelwijaya@email.com",
+      "StudentPhoneNumber": "089345678910",
+      "GPA": 3.60
+    },
+    {
+      "_id": "STU05",
+      "StudentName": "Davis Kelvin",
+      "StudentGender": "Male",
+      "StudentDOB": "2003-02-18",
+      "StudentEmail": "daviskel@gmail.com",
+      "StudentPhoneNumber": "081987654321",
+      "GPA": 3.95
+    }
+  ]
+}
+
