@@ -1,0 +1,128 @@
+{
+    "employees": [
+      {
+        "_id": "EMA01",
+        "EmployeeName": "Ahmad Sebastian",
+        "EmployeeGender": "Male",
+        "EmployeeAddress": "St. Gajah Mada",
+        "EmployeePhoneNumber": "081973410850"
+      },
+      {
+        "_id": "EMA02",
+        "EmployeeName": "Alan William",
+        "EmployeeGender": "Male",
+        "EmployeeAddress": "St. S. Parman",
+        "EmployeePhoneNumber": "089917287190"
+      },
+      {
+        "_id": "EMA03",
+        "EmployeeName": "Rizki Pratama",
+        "EmployeeGender": "Male",
+        "EmployeeAddress": "St. Daan Mogot",
+        "EmployeePhoneNumber": "087290826881"
+      },
+      {
+        "_id": "EMA04",
+        "EmployeeName": "Melinda Gabriella",
+        "EmployeeGender": "Female",
+        "EmployeeAddress": "St. Sutera Boulevard",
+        "EmployeePhoneNumber": "082810187715"
+      },
+      {
+        "_id": "EMA05",
+        "EmployeeName": "Erika Santoso",
+        "EmployeeGender": "Female",
+        "EmployeeAddress": "St. Pantai Indah Utara",
+        "EmployeePhoneNumber": "08180982354"
+      }
+    ],
+    "customers": [
+      {
+        "_id": "CUA01",
+        "CustomerName": "Kevin Fernando",
+        "CustomerAddress": "St. Gading Boulevard",
+        "CustomerPhoneNumber": "081888281999"
+      },
+      {
+        "_id": "CUA02",
+        "CustomerName": "Bobby John Farrel",
+        "CustomerAddress": "St. M.H. Thamrin",
+        "CustomerPhoneNumber": "081476416523"
+      },
+      {
+        "_id": "CUA03",
+        "CustomerName": "William Setiawan",
+        "CustomerAddress": "St. Sudirman",
+        "CustomerPhoneNumber": "081528939816"
+      },
+      {
+        "_id": "CUA04",
+        "CustomerName": "Rikko Steven",
+        "CustomerAddress": "St. Grand Boulevard",
+        "CustomerPhoneNumber": "081138788100"
+      },
+      {
+        "_id": "CUA05",
+        "CustomerName": "Razan Nathaniel",
+        "CustomerAddress": "St. Yos Sudarso",
+        "CustomerPhoneNumber": "081683843865"
+      }
+    ],
+    "transactions": [
+      {
+        "_id": "TRA01",
+        "CustomerID": "CUA01",
+        "EmployeeID": "EMA01",
+        "TransactionDate": "12-02-2021"
+      },
+      {
+        "_id": "TRA02",
+        "CustomerID": "CUA01",
+        "EmployeeID": "EMA02",
+        "TransactionDate": "15-05-2021"
+      },
+      {
+        "_id": "TRA03",
+        "CustomerID": "CUA02",
+        "EmployeeID": "EMA02",
+        "TransactionDate": "20-06-2021"
+      },
+      {
+        "_id": "TRA04",
+        "CustomerID": "CUA02",
+        "EmployeeID": "EMA03",
+        "TransactionDate": "17-07-2021"
+      },
+      {
+        "_id": "TRA05",
+        "CustomerID": "CUA02",
+        "EmployeeID": "EMA03",
+        "TransactionDate": "19-09-2021"
+      },
+      {
+        "_id": "TRA06",
+        "CustomerID": "CUA03",
+        "EmployeeID": "EMA03",
+        "TransactionDate": "23-10-2021"
+      },
+      {
+        "_id": "TRA07",
+        "CustomerID": "CUA04",
+        "EmployeeID": "EMA04",
+        "TransactionDate": "31-10-2021"
+      },
+      {
+        "_id": "TRA08",
+        "CustomerID": "CUA04",
+        "EmployeeID": "EMA05",
+        "TransactionDate": "12-11-2021"
+      },
+      {
+        "_id": "TRA09",
+        "CustomerID": "CUA05",
+        "EmployeeID": "EMA05",
+        "TransactionDate": "06-12-2021"
+      }
+    ]
+  }
+  
